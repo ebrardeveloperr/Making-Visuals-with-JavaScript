@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "sketch03",
   "version": "1.0.0",
   "description": "",
   "main": "sketch03.js",
+=======
+  "name": "02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch02.js",
+>>>>>>> 55a6e5488048fca5a0eaa1462e34031f8f827d07
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
