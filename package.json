@@ -1,8 +1,22 @@
 {
+<<<<<<< HEAD
   "name": "04",
   "version": "1.0.0",
   "description": "",
   "main": "sketch04.js",
+=======
+<<<<<<< HEAD
+  "name": "sketch03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch03.js",
+=======
+  "name": "02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch02.js",
+>>>>>>> 55a6e5488048fca5a0eaa1462e34031f8f827d07
+>>>>>>> e373192e37e4e683b570be51f3fd681baa6803df
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +26,11 @@
   "type": "commonjs",
   "dependencies": {
     "canvas-sketch": "^0.7.8",
+<<<<<<< HEAD
     "canvas-sketch-util": "^1.10.0",
     "tweakpane": "^3.1.10"
+=======
+    "canvas-sketch-util": "^1.10.0"
+>>>>>>> e373192e37e4e683b570be51f3fd681baa6803df
   }
 }
